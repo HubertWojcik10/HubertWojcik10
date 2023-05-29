@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Hubert Wójcik
-I currently study Data Science (3rd semester) at the IT University in Copenhagen. I also work as a student web analyst.
+I currently study Data Science (4th semester) at the IT University in Copenhagen. I also work as a data reporting student.
 
 My areas of expertise: DATA SCIENCE / WEB DEV / SEO
 
