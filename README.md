@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Hubert Wójcik
-I currently study Data Science (5th semester) at the IT University in Copenhagen. I also work as a Student Data Engineer.
+### Hi 👋, I'm Hubert Wójcik
+I currently study Human-Centered AI at DTU. I also work as a Student Data Engineer.
 
 My areas of expertise: DATA SCIENCE / DATA ENGINEERING / ML
 
