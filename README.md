@@ -45,7 +45,7 @@ Architected and deployed a production-ready MLOps system on Google Cloud Platfor
 ### [Belief Revision Agent](https://github.com/s243906/intro_to_ai_projects) (2025)
 Designed and implemented an AGM-based Belief Revision engine in Python, utilizing Levi's identity and partial meet contraction to manage logical consistency in dynamic environments.
 
-### Reimplementing Denoising Diffusion Probabilistic Models (2024)
+### [Reimplementing Denoising Diffusion Probabilistic Models](https://github.com/HubertWojcik10/deep_learning_diffusion) (2024)
 Re-implemented Denoising Diffusion Probabilistic Models (DDPM) in PyTorch to generate high-quality images from the MNIST dataset using a U-Net architecture with sinusoidal time embeddings.
 
 ### Bachelor's Project - Classifying the Similarity of Multilingual News Articles with XLMRoberta (2024)
