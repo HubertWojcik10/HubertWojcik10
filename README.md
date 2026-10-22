@@ -1,5 +1,5 @@
 ### Hi, I'm Hubert Wójcik
-Data Engineer @ Abacus Medicine | Human-centered AI student @ Technical University of Denmark
+Data & AI Engineer | Human-centered AI @ Technical University of Denmark
 
 📫 Reach me via wojcik.hubert.biz@gmail.com
 👋 Message me on [Linkedin](https://www.linkedin.com/in/hubert-wojcik-copenhagen/)
@@ -22,7 +22,7 @@ Data Engineer @ Abacus Medicine | Human-centered AI student @ Technical Universi
 
 ## 💼 Professional Experience
 
-**Abacus Medicine** | Student Data Engineer (Sep 2023 - Present)  
+**Abacus Medicine** | Student Data Engineer (Sep 2023 - Sep 2026)  
 **Analog (Voluntary Organization)** | Backend Engineer (Sep 2023 - Mar 2024)  
 **Blazar Capital** | Data Insights Student Assistant (Jan 2023 - Aug 2023)  
 **Blazar Capital** | Web & SEO Student Analyst (Jun 2022 - Jan 2023)  
